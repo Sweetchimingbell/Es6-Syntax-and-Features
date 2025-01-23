@@ -1,0 +1,1 @@
+# Aim: to learn ES6 concepts that are essential for understanding before working with React
